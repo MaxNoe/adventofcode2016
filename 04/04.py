@@ -44,6 +44,5 @@ def solution():
     print('Part I: ', id_sum)
 
 
-
 if __name__ == '__main__':
     solution()
